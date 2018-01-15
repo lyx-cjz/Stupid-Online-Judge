@@ -1,0 +1,2 @@
+# Stupid-Online-Judge
+Stupid!!!
