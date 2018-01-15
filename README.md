@@ -1,2 +1,3 @@
 # Stupid-Online-Judge
-Stupid!!!
+This is a simple and stupid OJ.
+$\le \le \le$
